@@ -30,7 +30,7 @@ TODO:
 
 5. ```Detect HID peripherals, and capture them, instead of echoing their position from surface to app.```
 
-6. ```Introduce support for MIPS architecture.```
+6. ```Introduce support for MIPS architecture emulation.```
 
 (Basically match featureset of UTM, and Virt-Manager.)
 
